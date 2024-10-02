@@ -210,6 +210,8 @@
 * [C++ Tutorial In Hindi](https://www.youtube.com/playlist?list=PLhvdldYcnZMl3Smc6ANF6rO56ORgwb46g) - Coding Wallah Sir
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+* [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4) - Edutainment 1.0
+* [C++ Programming Language | C++ Tutorial](https://www.youtube.com/playlist?list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J) - Naresh i Technologies
 
 
 ### Cloud Computing
